@@ -1,0 +1,2 @@
+查看一个对象t的属性	properties(t) 类似的events | fieldnames | methods
+查看一个对象t的方法	methods(t) 类似的events | fieldnames | methods
